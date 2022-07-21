@@ -1,0 +1,32 @@
+@import url(https://fonts.google.com/share?selection.family=Edu%20SA%20Beginner%7COswald);
+
+body {
+    background-color:rgb(255, 255, 255);
+    color: rgb(43, 43, 43);
+
+    font-size: 16px;
+    font-weight: 100;
+    font-family:'Monserat', sans-serif;
+
+}
+
+img {
+    width: 200px;
+    border-radius: 50%;
+    border: 2px solid rgb(0, 255, 106);
+}
+
+a {
+    color: rgb(97, 165, 42);
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+ul li a {
+    color: rgb(rgb(44, 255, 114));
+}
