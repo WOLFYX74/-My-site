@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+.block {
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+background-color: rgb(250, 167, 0);
+border: 2px solid white;
+}
+.content {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.column1,
+.column2,
+.column3 {
+    width: 40%;
+}
+
+.column1 {
+    float: left;
+    height: 40px;
+    width: 80px;
+}
+.column2 {
+    float: right;
+    height: 40px;
+    width: 80px;   
+}
+.column3 {
+   float: none;
+    margin: 5px auto;
+    clear: both;
+}

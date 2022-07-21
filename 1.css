@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+    color: rgb(255, 255, 255);
+}
+ .container {
+    width: 70%;
+    margin: 0 auto;
+}
+.header {
+    background-color: darkolivegreen;
+    margin-bottom: 5px;
+} 
+.column1 {
+    float: left;
+    height: 40px;
+    width: 80px;
+    background-color: darkolivegreen;
+}
+.column2 {
+    float: right;
+    height: 40px;
+    width: 80px;  
+    background-color: darkolivegreen; 
+}
+.footer {
+    background-color: darkolivegreen;
+
+}

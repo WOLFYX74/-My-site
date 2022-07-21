@@ -1,0 +1,14 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+  background:#99FFCC url("img2/Новий_проект.jpg") fixed;
+  color: #ffffff;
+  /* background-color: #99FFCC;
+  background-image: url("Новий проект.jpg");
+  background-attachment:fixed; 
+  background-position: 0% 50%; */
+}
+p, h1, h2 {
+    text-align: center;
+    background-color: rgb(0, 81, 255);
+    width: 500px;
+}

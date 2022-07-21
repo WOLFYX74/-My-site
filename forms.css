@@ -1,0 +1,28 @@
+form {
+    background-color: rgb(221, 94, 94);
+    padding: 20px;
+}
+button[typoe=submit] {
+padding: 10px 20px;
+background-color: white;
+color: black;
+border-radius: 80px;
+}
+
+button[type=submit]:hover {
+    background-color: red;
+    color: white;
+}
+
+input {
+     margin-bottom: 20px;
+} 
+
+input[type=text],
+input[type=password] {
+    width: 50%;
+    border: 1px solid gray;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 15px;
+}
